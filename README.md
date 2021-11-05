@@ -1,2 +1,2 @@
 # SmartGuide
-SmartGuide portifolio webssite
+SmartGuide portifolio website
